@@ -47,7 +47,7 @@ public class Hitung_Deret {
         System.out.println("Total bilangan genap: " + tot_genap);
     }
 
-    public static void main(String[] args) {
+     static void main(String[] args) {
         Hitung_Deret deret = new Hitung_Deret();
         deret.input();
         deret.deret();
